@@ -34,3 +34,6 @@ def initialize_motor_distributions(M,L):
  global m0
  m0 = 1 if m[0] > 0 else 0
  return m,b
+
+
+# add the following lines.
