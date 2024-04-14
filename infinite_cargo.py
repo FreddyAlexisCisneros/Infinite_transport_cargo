@@ -1,3 +1,6 @@
+# The following is code that allows for there to be an unbound number of cargo at any particular site 
+# along the MT.
+
 import numpy as np
 import random as random
 import time
