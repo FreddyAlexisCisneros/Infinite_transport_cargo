@@ -51,6 +51,7 @@ def diffuse_unbound_bulk_motor(P):
     U -= 1
    return
   temp += factor*ms[site]  
+  
 def walk(P):
  global temp_list
  temp = P
